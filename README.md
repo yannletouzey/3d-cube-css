@@ -1,6 +1,6 @@
 # Cube 3d css
 
-![screen cube 3d](screencube.png)
+<img src="screencube.png" width="200" height="200" /><br>
 
 >npm i 3d-cube-css
 

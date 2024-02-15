@@ -1,10 +1,14 @@
 {
   "name": "3d-cube-css",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Build cube 3d in css",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yannletouzey/3d-cube-css.git"
   },
   "keywords": [
     "css",
@@ -12,5 +16,9 @@
     "cube"
   ],
   "author": "Yzey",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yannletouzey/3d-cube-css/issues"
+  },
+  "homepage": "https://github.com/yannletouzey/3d-cube-css#readme"
 }
